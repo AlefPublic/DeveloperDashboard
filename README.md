@@ -1,58 +1,131 @@
-🚀 Release Information
-Version: v1.0
+# 🚀 DeveloperDashboard v1.0 - Professional System Monitor
 
-Release Date: June 28, 2026
+Developer: Alef Team  
+Version: 1.0  
+Email: Alefrealeasetm@gmail.com  
+Telegram: t.me/AlefPublice  
 
-Application: DeveloperDashboard.exe
+---
 
-Developer: Alef Team
+## 📥 Download
 
-License: All Rights Reserved
+You can download it from:  
+🔗  https://github.com/AlefPublic/DeveloperDashboard
 
-📋 Description
-DeveloperDashboard is a professional, glass-morphism style system monitoring tool designed for developers and system administrators. Built with Python and Tkinter, this application provides real-time insights into your system's performance with a beautiful, modern interface inspired by iOS design.
+---
 
-📦 System Requirements
-Minimum Requirements
-OS: Windows 10/11 (64-bit)
+## 💻 System Requirements
 
-CPU: 1 GHz or faster
+Minimum Requirements:
+- OS: Windows 10/11 (64-bit)
+- CPU: 1 GHz or faster
+- RAM: 512 MB minimum
+- Disk Space: 50 MB free space
+- Python: Not required (standalone executable)
 
-RAM: 512 MB minimum
+Recommended Requirements:
+- OS: Windows 10/11 (64-bit)
+- CPU: 2 GHz or faster
+- RAM: 2 GB or more
+- Disk Space: 100 MB free space
 
-Disk Space: 50 MB free space
+---
 
-Python: Not required (standalone executable)
+## 🖥️ Platform Support
 
-Recommended Requirements
-OS: Windows 10/11 (64-bit)
+Currently available for: ✅ Windows (10/11 64-bit)
 
-CPU: 2 GHz or faster
+Future support: We plan to release versions for Linux and macOS if the project receives enough community support and interest.
 
-RAM: 2 GB or more
+---
 
-Disk Space: 100 MB free space
+## 📊 What Does It Do?
 
-🚀 How to Run the Application
-Method 1: Direct Execution (Recommended)
-Download DeveloperDashboard.exe from the releases page
+DeveloperDashboard is a professional, real-time system monitoring tool with a stunning glass-morphism interface inspired by iOS design.
 
-Double-click the DeveloperDashboard.exe file
+### 🔍 Key Features:
 
-The application will launch immediately with full system monitoring capabilities
+✅ Real-Time Performance Monitoring
+- Live CPU usage tracking with interactive graphs
+- Real-time RAM/Memory monitoring with visual charts
+- System uptime tracking
+- Open ports detection
 
-📧 Contact & Support
-Alef Team
-Developer: Alef Development Team
+✅ Process Management
+- Complete list of all running processes
+- Monitor CPU & RAM usage per process
+- Color-coded alerts (Red = High CPU, Orange = High RAM)
 
-Email: Alefrealeasetm@gmail.com
+✅ Modern Glass-Morphism UI
+- iOS-style design with dark theme
+- Smooth animations and real-time updates
+- Custom title bar (No Windows borders)
+- macOS-style window controls (Close, Minimize, Maximize)
 
-Website: t.me/AlefPublice
+✅ User-Friendly Controls
+- Drag window by title bar
+- Maximize, minimize, or close with one click
+- Auto-refresh every second
+- No installation required - just run the .exe!
 
-📜 License
-Copyright © 2026 Alef Team. All Rights Reserved.
+---
 
-This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited without prior written permission from Alef Team.
+## 🎯 Perfect For:
 
-Thank you for using DeveloperDashboard! 🎉
-Made with ❤️ by Alef Team
+👨‍💻 Developers - Monitor system performance while coding  
+🖥️ System Admins - Track server/resources in real-time  
+📊 Power Users - Understand exactly what's happening on your PC  
+🔧 Tech Enthusiasts - Beautiful way to watch system stats
+
+---
+
+## 📥 How to Use:
+
+1. Go to: https://github.com/AlefPublic/DeveloperDashboard
+2. Download the DeveloperDashboard.Zip file from Releases
+3. Double-click to run
+4. Watch your system come to life!
+5. Close with the red (●) button or Alt+F4
+
+---
+
+## 💡 Why Choose DeveloperDashboard?
+
+✔️ Standalone EXE - No Python installation needed  
+✔️ Lightweight - Uses minimal system resources  
+✔️ Beautiful Design - Glass-morphism like iOS/macOS  
+✔️ Professional - Built by Alef Team for developers  
+✔️ Real-Time - Updates every second  
+✔️ Complete - CPU, RAM, Processes, Ports, Uptime
+
+---
+
+## 📞 Contact Us:
+
+📧 Email: Alefrealeasetm@gmail.com  
+🌐 Telegram: t.me/AlefPublice  
+👨‍💻 Developer: Alef Team
+🐙 GitHub: github.com/AlefPublic
+---
+
+## 🔒 System Requirements:
+
+- Windows 10/11 (64-bit)
+- No additional software needed
+- 50 MB free disk space
+
+---
+
+## 📱 Cross-Platform Availability:
+
+Current: ✅ Windows (10/11 64-bit)
+
+Coming Soon: ⏳ Linux & macOS (Based on community support)
+
+We are committed to expanding platform support. If you'd like to see DeveloperDashboard on your operating system, show your support by starring the repository and sharing your feedback!
+
+---
+
+© 2026 Alef Team - All Rights Reserved
+
+*Made with ❤️ for developers worldwide*
